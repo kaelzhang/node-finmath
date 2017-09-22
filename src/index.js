@@ -19,6 +19,13 @@ import sd from 's-deviation'
 
 import boll from 'bollinger-bands'
 
+import {
+  add,
+  sub,
+  mul,
+  div
+} from 'math-array'
+
 export {
   macd,
   kdj,
@@ -30,5 +37,9 @@ export {
   hhv,
   llv,
   sd,
-  boll
+  boll,
+  add,
+  sub,
+  mul,
+  div
 }

@@ -10,7 +10,11 @@ import {
   hhv,
   llv,
   sd,
-  boll
+  boll,
+  add,
+  sub,
+  mul,
+  div
 } from '../src'
 
 test('description', t => {

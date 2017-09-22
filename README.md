@@ -37,7 +37,11 @@ import {
   hhv,
   llv,
   sd,
-  boll
+  boll,
+  add,
+  sub,
+  mul,
+  div
 } from 'finmath'
 ```
 
@@ -47,6 +51,7 @@ import {
 - [hhv, llv](https://github.com/kaelzhang/hhv-llv)
 - [sd](https://github.com/kaelzhang/s-deviation)
 - [boll](https://github.com/kaelzhang/bollinger-bands)
+- [add, sub, mul, div](https://github.com/kaelzhang/node-math-array)
 
 ## License
 
