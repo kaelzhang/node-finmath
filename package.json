@@ -1,6 +1,6 @@
 {
   "name": "finmath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fintech mathematics",
   "main": "lib/index.js",
   "module": "src/index.js",

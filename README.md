@@ -15,7 +15,7 @@
 
 # finmath
 
-<!-- description -->
+Fintech mathematics
 
 ## Install
 
