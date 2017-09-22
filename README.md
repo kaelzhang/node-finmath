@@ -26,8 +26,27 @@ $ npm install finmath
 ## Usage
 
 ```js
-import finmath from 'finmath'
+import {
+  macd,
+  kdj,
+  ma,
+  sma,
+  dma,
+  wma,
+  ema,
+  hhv,
+  llv,
+  sd,
+  boll
+} from 'finmath'
 ```
+
+- [macd](https://github.com/kaelzhang/macd)
+- [kdj](https://github.com/kaelzhang/kdj)
+- [ma, sma, dma, wma, ema](https://github.com/kaelzhang/moving-averages)
+- [hhv, llv](https://github.com/kaelzhang/hhv-llv)
+- [sd](https://github.com/kaelzhang/s-deviation)
+- [boll](https://github.com/kaelzhang/bollinger-bands)
 
 ## License
 
