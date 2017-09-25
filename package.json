@@ -1,6 +1,6 @@
 {
   "name": "finmath",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Fintech mathematics",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -66,10 +66,10 @@
   },
   "dependencies": {
     "babel-runtime": "^6.23.0",
-    "bollinger-bands": "^2.0.1",
+    "bollinger-bands": "^2.0.2",
     "hhv-llv": "^1.0.2",
-    "kdj": "^1.0.3",
-    "macd": "^1.0.1",
+    "kdj": "^1.0.4",
+    "macd": "^1.0.2",
     "moving-averages": "^4.0.5",
     "s-deviation": "^2.0.3"
   }
